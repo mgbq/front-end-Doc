@@ -36,8 +36,8 @@ npm run build
 
 ## 代码规范
 
-+ [HTML规范](./coding-standards/html.md)
-+ [CSS规范](./coding-standards/css.md)
-+ [JS规范一（语法&格式篇）](./coding-standards/js.md)
-+ [JS规范二（base）](./coding-standards/js-base.md)
++ [HTML规范](./html.md)
++ [CSS规范](./css.md)
++ [JS规范一（语法&格式篇）](./js.md)
++ [JS规范二（base）](./js-base.md)
 
