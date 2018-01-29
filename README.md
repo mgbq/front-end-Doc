@@ -43,4 +43,6 @@ npm run build
 
 ##前后端接口规范
 + [JSON-API](./json-api.md)
+##文件命名规范
++ [文件命名规范](./文件命名规范.md)
 
