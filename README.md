@@ -31,7 +31,7 @@ npm run build
 + 资源加载打包工具：[Webpack](https://webpack.github.io/)
 + 代码规范工具：[eslint](http://eslint.org/)
 + 单元测试 [vue-test-utils](https://vue-test-utils.vuejs.org/zh-cn/)
-+ 其他：[ES6](https://wohugb.gitbooks.io/ecmascript-6/content/index.html),[node.js](https://nodejs.org/en/),[npm](https://www.npmjs.com/)
++ 其他：[ES6](https://wohugb.gitbooks.io/ecmascript-6/content/index.html),[node.js](https://nodejs.org/en/),[npm](https://www.npmjs.com/),,[alias](https://webpack.js.org/configuration/resolve/)
 
 
 ## 代码规范
