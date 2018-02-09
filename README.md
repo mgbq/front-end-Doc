@@ -27,7 +27,7 @@ npm run build
 + 路由映射：[vue-router](https://router.vuejs.org/zh-cn/)
 + UI组件库：[Muse-UI](https://museui.github.io/#/index),[Element](http://element.eleme.io/#/zh-CN/component/quickstart)
 + HTTP请求库：[axios](https://github.com/mzabriskie/axios)
-+ CSS的预处理框架: [Stylus](http://stylus-lang.com/),[中文文档](http://www.zhangxinxu.com/jq/stylus/)
++ CSS的预处理框架: [Stylus](http://stylus-lang.com/),[中文文档](http://www.zhangxinxu.com/jq/stylus/),[sass](http://sass.bootcss.com/)
 + 资源加载打包工具：[Webpack](https://webpack.github.io/)
 + 代码规范工具：[eslint](http://eslint.org/)
 + 单元测试 [vue-test-utils](https://vue-test-utils.vuejs.org/zh-cn/)
