@@ -25,6 +25,7 @@ npm run build
 + 核心框架：[Vue](https://cn.vuejs.org/v2/guide/)
 + 状态管理：[Vuex](https://vuex.vuejs.org/zh-cn/intro.html)
 + 路由映射：[vue-router](https://router.vuejs.org/zh-cn/)
++ 模拟数据：[mock.js](http://mockjs.com/)
 + UI组件库：[Muse-UI](https://museui.github.io/#/index),[Element](http://element.eleme.io/#/zh-CN/component/quickstart)
 + HTTP请求库：[axios](https://github.com/mzabriskie/axios)
 + CSS的预处理框架: [Stylus](http://stylus-lang.com/),[中文文档](http://www.zhangxinxu.com/jq/stylus/),[sass](http://sass.bootcss.com/)
