@@ -3,6 +3,7 @@
 
 综合类 | 地址
 --- | --- 
+前端文档基本例子|https://github.com/mgbq/front-end-Doc/blob/master/base.md
 前端知识体系|http://www.cnblogs.com/sb19871023/p/3894452.html
 前端知识结构|https://github.com/JacksonTian/fks
 Web前端开发大系概览|https://github.com/unruledboy/WebFrontEndStack
