@@ -53,7 +53,7 @@ Grunt-beginner前端自动化工具|http://www.imooc.com/learn/30
 --- | --- 
 张鑫旭 - 慕课系列|http://www.imooc.com/t/197450
 lyn - 慕课系列|http://www.imooc.com/t/104593
-艾伦 - 慕课系列|http://www.imooc.com/t/290139
+艾伦 - 慕课系列|http://www.imooc.com/u/290139/courses?sort=publish
 碧仔 - Hello，移动WEB|http://www.imooc.com/view/494
 
 
