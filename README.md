@@ -221,7 +221,7 @@ avalon| 地址
 avalonjs|http://avalonjs.github.io
 Avalon新一代UI库： OniUI|http://ued.qunar.com/oniui/index.html
 avalon.oniui-基于avalon的组件库|https://github.com/RubyLouvre/avalon.oniui
-|
+
 
 Requriejs| 地址
 --- | --- 
